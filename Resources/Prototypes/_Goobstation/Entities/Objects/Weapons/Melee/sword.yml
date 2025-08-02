@@ -7,15 +7,15 @@
   - type: Sprite
     sprite: _Goobstation/Objects/Weapons/Melee/ccsabre.rsi
   - type: MeleeWeapon
-    attackRate: 1.6
+    attackRate: 1.5
+    wideAnimationRotation: -60
     damage:
       types:
         Slash: 30 # Seem important to keep the message from goob.// Fuck you.
     soundHit:
       path: /Audio/Weapons/bladeslice.ogg
   - type: Reflect
-    reflectProb: .2
-    spread: 90
+    reflectProb: 0.4
   - type: Item
     sprite: _Goobstation/Objects/Weapons/Melee/ccsabre.rsi
   - type: Tag
