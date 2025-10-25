@@ -2028,3 +2028,14 @@ Entries:
   id: 148
   time: '2025-10-25T08:23:44.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/303
+- author: salo2016
+  changes:
+    - type: Add
+      message: Попаут при переключении термального скрытия на скафандре
+    - type: Add
+      message: >-
+        Добавлен новый генератор SKR CR-class Z-pinch nuclear fusion reactor
+        (Вне крафта)
+  id: 149
+  time: '2025-10-25T08:43:20.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/309
