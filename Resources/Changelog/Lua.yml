@@ -2271,3 +2271,12 @@ Entries:
   id: 166
   time: '2025-10-31T12:09:21.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/338
+- author: fox76055
+  changes:
+    - type: Tweak
+      message: >-
+        Baron: Добавлено на судно начальное снаряжение, убран мусор внутри,
+        увеличена броня. Remap by Covral.
+  id: 167
+  time: '2025-10-31T12:19:33.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/339
