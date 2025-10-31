@@ -2298,3 +2298,10 @@ Entries:
   id: 169
   time: '2025-10-31T17:19:30.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/343
+- author: HacksLua
+  changes:
+    - type: Add
+      message: Возвращение кнопки Сеть во вкладку Настроек
+  id: 170
+  time: '2025-10-31T17:31:45.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/344
